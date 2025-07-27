@@ -1,0 +1,11 @@
+org\kociemba\twophase\Facelet.class
+org\kociemba\twophase\CoordCube.class
+org\kociemba\twophase\Tools.class
+org\kociemba\twophase\TwoPhaseApplication.class
+org\kociemba\twophase\Color.class
+org\kociemba\twophase\Search.class
+org\kociemba\twophase\Edge.class
+org\kociemba\twophase\CubieCube.class
+org\kociemba\twophase\CubeController.class
+org\kociemba\twophase\Corner.class
+org\kociemba\twophase\FaceCube.class
